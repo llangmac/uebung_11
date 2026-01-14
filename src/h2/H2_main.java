@@ -8,7 +8,7 @@ public class H2_main {
     private static int[] fibonacci_cached = new int[1000];
 
     public static void main(String[] args) {
-        benchmark(20);
+        //benchmark(20);
     }
 
     public static void benchmark(int n) {
